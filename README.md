@@ -5,12 +5,13 @@
 ## 1. IBM IDの取得  
 http://ibm.biz/create_ibm_id からIBM IDを登録します。  
   
+  
 
 ## 2. IBM Cloudライト・アカウントの登録  
 http://ibm.biz/create_ibm_cloud_account　
 から「ライト・アカウントを今すぐ登録」をクリックし、登録します。  
   
-
+  
 ## 3. IBM Academic Initativeの登録
 
 [OnTheHUBのIBM Academic Initiativeページ](URL "www.onthehub.com/ibm/")で、
@@ -20,6 +21,7 @@ http://ibm.biz/create_ibm_cloud_account　
 右上の「登録」をクリックし、大学発行のメールアドレスと入力して「続行」。  
 必要事項を入力して「登録」。  
 届いたメールに記載されているリンクをクリックして認証します。  
+  
   
   
 ## 4. IBM Cloudプロモコードの取得  
@@ -36,7 +38,8 @@ http://ibm.biz/create_ibm_cloud_account　
 同時に送信されるメールにもコードは記載されています。  
 以上で、IBM Cloudのプロモコードが取得できました。  
   
-
+  
+  
 ## 5. プロモコードの適用  
 https://console.bluemix.net/
 へアクセスし、2.で作成したアカウントでログインします。  
