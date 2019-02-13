@@ -2,8 +2,17 @@
 
 # IBM Academic Initativeの登録とIBM Cloudライト・アカウントへの適用
 
+（2019年2月現在）  
+大学の先生方、研究員、学生の皆様は、[IBM Academic Initiative](URL "https://developer.ibm.com/academic/") の豊富なリソース、教材を使うことが出来ます。  
+このページは、Academic Initiativeのリソースの一つである、IBM Cloudへのプロモーション・コードの適用について説明します。  
+プロモコードの適用で、  
+* IBM Cloudの使用期限の延長（先生１年まで、学生半年まで。期限切れる前に更新可能。）  
+* APIやサービスを標準プランで使用すること（通常、標準プランを使うにはクレジットカード登録が必要。）  
+
+などが可能になります。（2019年2月現在の情報です。）
+
 ## 1. IBM IDの取得  
-http://ibm.biz/create_ibm_id からIBM IDを登録します。  
+http://ibm.biz/create_ibm_id からIBM IDを登録します。 こちらは飛ばして、次章からでも登録可能です。 
   
   
 
