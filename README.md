@@ -24,7 +24,7 @@ https://console.bluemix.net/
   
 ## 3. IBM Academic Initativeの登録
 
-[OnTheHUBのIBM Academic Initiativeページ](URL "www.onthehub.com/ibm/")で、
+[OnTheHUBのIBM Academic Initiativeページ](URL "https://onthehub.com/ibm")で、
 左側、下の方「Cloud」欄の「Cloud Access」をクリック。 
 <img src="Images/OnTheHub.png" width="500">
 
